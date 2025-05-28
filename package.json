@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "name": "xml-extractor",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "bin": {
+  "your-command": "./app.js"  
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# input files
+*.xml
+
+# output files
+*.csv
+
+# packaged files
+*.exe
