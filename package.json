@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohamed Elsayed",
   "license": "ISC",
-  "description": ""
+  "description": "processing xml file to get Fail Safe Type for each Tag"
 }
